@@ -9,6 +9,8 @@
 	<configs>
 		<config>src/main/resources/applicationContext.xml</config>
 		<config>src/main/resources/spring-dao.xml</config>
+		<config>src/main/resources/spring-db.xml</config>
+		<config>src/main/resources/spring-tx.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
